@@ -1,2 +1,2 @@
-# Engineering-Design
-A overview of design thinking &amp; techniques
+### Engineering-Design
+An overview of design logic and strategies in Software Engineering Fields.
