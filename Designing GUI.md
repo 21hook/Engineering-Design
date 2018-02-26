@@ -9,5 +9,4 @@ Divide a system into modules, each of which is responsible for a particular func
 Kinds of operations/workflows among modules classify as patterns.
     
     
-       
-  
+    
